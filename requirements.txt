@@ -1,3 +1,4 @@
+python
 eyeD3
 lyricsgenius
 requests
